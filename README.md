@@ -1,6 +1,6 @@
 Lasso and Ridge regression are linear regression in which regularization is performed. By regularization, overfitting can be prevented.
 
-A normal linear model is as follows.
+A normal linear model is as follows (sorry for the unrendered math expressions).
 
 $ y = \Sigma_{i=1}^{n} w_i x_i + w_0$
 
